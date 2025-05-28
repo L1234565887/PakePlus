@@ -1,0 +1,1 @@
+import{d as n,c as a,j as o,e as c,o as r,_}from"./index-CypZuJ3a.js";const p="/assets/404-BCxKwoK6.png",d={class:"box"},i=n({__name:"index",setup(l){let s=c();const t=()=>{s.push("/home")};return(m,e)=>(r(),a("div",d,[e[0]||(e[0]=o("img",{src:p,alt:""},null,-1)),o("button",{onClick:t},"首页")]))}}),x=_(i,[["__scopeId","data-v-927cabbd"]]);export{x as default};
